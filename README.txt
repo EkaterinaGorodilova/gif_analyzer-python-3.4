@@ -2,7 +2,7 @@ Gif analyser.
 
 (program is still in development)
 
-This program parses GIF files and gives general information about file.
+This program parses GIF file and gives general information about it.
 
 - shows which blocks file contains
 - changes pallete 
