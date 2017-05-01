@@ -9,7 +9,6 @@ LS_DESCRIPTOR_SIZE = 13
 IMG_DESCRIPTOR_SIZE = 10
 GC_EXTENSION_SIZE = 5
 # END_FILE_IDENTIFIER = b'\x3B'
-# Здесь моя глобальная таблица цветов на случай если в файле отсутствует:
 GLOBAL_COLOR_TABLE = []
 # for hexdump
 LS_DESCRIPTOR_STR = 'logical screen descriptor'
