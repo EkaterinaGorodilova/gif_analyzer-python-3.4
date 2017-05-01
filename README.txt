@@ -17,6 +17,6 @@ To run program you need:
 - python3
 - PIL (pip install pillow)
 
-See more about GIF format here:
+See more about GIF files format here:
 (RU) Short description of the GIF format: http://home.onego.ru/~chiezo/gif.htm#lsd-size
 (EN) Specification: https://www.w3.org/Graphics/GIF/spec-gif89a.txt
