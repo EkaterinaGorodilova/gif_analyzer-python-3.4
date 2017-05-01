@@ -1,4 +1,5 @@
 Gif analyser.
+
 (program is still in development)
 
 This program parses GIF files and gives general information about file.
